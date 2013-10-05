@@ -1,0 +1,11 @@
+!!!
+head
+    title Lambdaphant
+    link(rel="stylesheet", href="http://yui.yahooapis.com/pure/0.2.0/pure-min.css")
+    link(rel="stylesheet", href="/css/main.css")
+body
+    div#layout.pure-g-r
+        != partial("_shared/left-rail")
+        section#content.pure-u-1.content
+            != yield
+            != partial("_shared/footer")

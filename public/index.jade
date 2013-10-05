@@ -1,0 +1,6 @@
+ul
+    for article, slug in public.words.data
+        - var td = article.title + ' - ' + article.date
+        li
+            a(href="/words/#{ slug }")
+                = td
