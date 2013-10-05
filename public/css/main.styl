@@ -60,5 +60,21 @@ a:visited
     @extends .gamma
     smallcaps(rgba(52,56,56, 0.75), bold)
 
-.page
-    display none
+
+@media (max-width: 767px)
+        .sidebar
+            width 100%
+            position relative
+            margin 0
+        header
+            text-align: center
+        top auto
+        margin 3em auto
+        position static
+
+        #layout
+            padding 0
+
+@media (max-width: 480px)
+    .content
+        padding 2em 1em 0
