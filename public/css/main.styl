@@ -60,21 +60,22 @@ a:visited
     @extends .gamma
     smallcaps(rgba(52,56,56, 0.75), bold)
 
+@media only screen and (max-device-width: 480px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 2)
+    .content
+        padding 2em 1em 0
 
-@media (max-width: 767px)
-        .sidebar
+    .sidebar
             width 100%
             position relative
             margin 0
-        header
-            text-align center
-            top auto
-            margin 3em auto
-            position static
+    header
+        text-align center
+        top auto
+        margin 3em auto
+        position static
 
-        #layout
-            padding 0
-
-@media (max-width: 480px)
-    .content
-        padding 2em 1em 0
+    header img
+        width 75%
+        height 75%
+    #layout
+        padding 0
