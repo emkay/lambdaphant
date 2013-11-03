@@ -26,7 +26,7 @@ Editor](http://www.romhacking.net/utilities/460/).
 
 ### Sprite Sheet
 Holy cow!!! That's the entire sprite sheet for [Super Mario
-Bros.](https://en.wikipedia.org/wiki/Super_Mario_Bros.). The idea here is to
+Bros](https://en.wikipedia.org/wiki/Super_Mario_Bros.). The idea here is to
 provide a tool to allow you to take an old school video game, rip out the sprite
 sheet, and hack stuff up.
 
