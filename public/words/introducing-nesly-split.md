@@ -12,7 +12,7 @@ data that holds the actual code for the game. Sometimes games will hold
 everything including sprites in the PRG.
 
 Right now [nesly-split](https://github.com/emkay/nesly-split) only supports
-games that hold their sprites in CHR.
+games that hold their sprites in CHR, but the plan is to support ROMs that also hold sprite data in PRG.
 
 ## Example
 The api is pretty simple. Just pass in a rom file and a callback.
@@ -37,8 +37,10 @@ works. Stuff that is on the list is:
 * A browser based CHR editor
 * A programming language and compiler for NES games
 * Somehow rip sprites out of PRG (looking at you Mega Man)
+* Real 8-bit NES sound with javascript!!!
 
 Once some more of these tools are in place it will be a little bit easier to
 build awesome home brew NES programs.
- 
+
+
 For a preview take a look at [nesly](https://github.com/emkay/nesly).
