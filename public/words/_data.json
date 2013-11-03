@@ -7,5 +7,10 @@
     "html5-devconf": {
         "title": "HTML5 Dev Conf",
         "date": "November 2nd 2013"
+    },
+
+    "introducing-nesly-split": {
+        "title": "Introducing Nesly Split",
+        "date": "November 3rd 2013"
     }
 }
