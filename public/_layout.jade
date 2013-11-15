@@ -7,6 +7,7 @@ body
         != partial("_shared/left-rail")
         section#content.pure-u-1.content
             != yield
+            script(data-gittip-username="mmatuzak", data-gittip-widget="button", src="//gttp.co/v1.js")
             != partial("_shared/footer")
 
     != partial("_shared/ga")
