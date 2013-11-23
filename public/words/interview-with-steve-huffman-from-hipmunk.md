@@ -1,4 +1,4 @@
-Steve "The Huff" Huffman is a co-founder at <a href="http://www.hipmunk.com/">Hipmunk</a> with Adam Goldstein. He also co-founded <a href="http://reddit.com">Reddit</a>, which was sold in 2006. Both Reddit and Hipmunk went through the <a href=http://ycombinator.com">Y Combinator</a> seed funding process. In this brief interview he talks about how he got started hacking, the comparison between both Y Combinator experiences, and some insight into the <a href="http://hipmunk.com">Hipmunk</a> development process.
+Steve "The Huff" Huffman is a co-founder at <a href="http://www.hipmunk.com/">Hipmunk</a> with Adam Goldstein. He also co-founded <a href="http://reddit.com">Reddit</a>, which was sold in 2006. Both Reddit and Hipmunk went through the <a href="http://ycombinator.com">Y Combinator</a> seed funding process. In this brief interview he talks about how he got started hacking, the comparison between both Y Combinator experiences, and some insight into the <a href="http://hipmunk.com">Hipmunk</a> development process.
 
 ### How did you get started hacking?
 
