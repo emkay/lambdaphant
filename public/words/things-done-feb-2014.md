@@ -6,21 +6,21 @@
 * <a href="http://www.amazon.com/gp/product/0316014443/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316014443&linkCode=as2&tag=lambdaphant-20">Vampirates: Demons of the Ocean</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lambdaphant-20&l=as2&o=1&a=0316014443" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <div itemscope itemtype="http://schema.org/Book">
-#### Junky
+<h4 itemprop="name">Junky</h4>
 <a href="http://www.amazon.com/gp/product/0802120423/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0802120423&linkCode=as2&tag=lambdaphant-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0802120423&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lambdaphant-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lambdaphant-20&l=as2&o=1&a=0802120423" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Great book. William S. Burroughs is one crazy junk genius.
 </div>
 
 <div itemscope itemtype="http://schema.org/Book">
-#### On a Pale Horse
+<h4 itemprop="name">On a Pale Horse</h4>
 <a href="http://www.amazon.com/gp/product/0345338588/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345338588&linkCode=as2&tag=lambdaphant-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0345338588&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lambdaphant-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lambdaphant-20&l=as2&o=1&a=0345338588" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Pretty interesting take on the whole Death mythos. It took a little bit to get me hooked, but after I figured out what was going on I enjoyed it. Eventually I want to check out the rest of this series.
 </div>
 
 <div itemscope itemtype="http://schema.org/Book">
-#### Lost Antartica: Adventures in a Disappearing Land
+<h4 itemprop="name">Lost Antartica: Adventures in a Disappearing Land</h4>
 <a href="http://www.amazon.com/gp/product/0230112455/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0230112455&linkCode=as2&tag=lambdaphant-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0230112455&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lambdaphant-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lambdaphant-20&l=as2&o=1&a=0230112455" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
@@ -28,7 +28,7 @@ This book makes me want to go to Antartica. It reminded me a lot of <a href="htt
 </div>
 
 <div itemscope itemtype="http://schema.org/Book">
-#### Vampirates: Demons of the Ocean
+<h4 itemprop="name">Vampirates: Demons of the Ocean</h4>
 <a href="http://www.amazon.com/gp/product/0316014443/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316014443&linkCode=as2&tag=lambdaphant-20"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0316014443&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=lambdaphant-20" ></a><img itemprop="image" src="http://ir-na.amazon-adsystem.com/e/ir?t=lambdaphant-20&l=as2&o=1&a=0316014443" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
